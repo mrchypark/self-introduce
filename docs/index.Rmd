@@ -23,9 +23,7 @@ knitr::opts_chunk$set(cache = T, fig.height = 5, tidy="styler")
 
 
 class: inverse
-
-## 강사 소개
-
+<br>
 .pull-left[
   .pull-right[
 <br>
@@ -40,9 +38,9 @@ class: inverse
   * 재무DB 구축/관리 및 자동화
 - .gray[(전)]서울도시가스 선행연구팀 연구원
   * 챗봇 엔진 개발 및 서버 구축
-- 2017년 패스트 캠퍼스 데이터 분석 R 강의
+- .gray[(전)]2017년 패스트 캠퍼스 데이터 분석 R 강의
   * [데이터 분석을 위한 중급 R 프로그래밍](http://www.fastcampus.co.kr/data_camp_dabrp/)
-- R 네이버 뉴스 크롤러 [N2H4](https://github.com/forkonlp/N2H4) 관리자
+- N사 뉴스 크롤러 [N2H4](https://github.com/forkonlp/N2H4), D사 뉴스 크롤러 [DNH4](https://github.com/forkonlp/DNH4) 관리자
   * [ForkonLP](https://forkonlp.github.io/) 프로젝트
   
 
@@ -52,7 +50,7 @@ class: inverse
 ---
 class: inverse
 
-소개 블로그를 운영하고 있습니다.
+블로그를 운영하고 있습니다.
 
 [<img src="https://user-images.githubusercontent.com/6179259/44062214-660e0516-9f96-11e8-8485-45c6b311639c.png" width=100%>](https://mrchypark.github.io/)
 
@@ -97,7 +95,8 @@ class: inverse
   - [presidentSpeechKr](https://github.com/forkonlp/presidentSpeechKr) : 대통령 연설문
   - [stdkor](https://github.com/forkonlp/stdkor) : 표준국어대사전 텍스트 자료
 
-### [.yellow[개인]](https://mrchypark.github.io/about)    
+### [.yellow[개인]](https://mrchypark.github.io/about)  
+  - [sendgridr](https://github.com/mrchypark/sendgridr) : 메일 전송 서비스 sendgrid api 패키지
   - [ubci](https://github.com/mrchypark/ubci) : 업비트 거래소 인덱스&시세 데이터 
   - [tqk](https://github.com/mrchypark/tqk) : 한국 주식 데이터
   - [krlift](https://github.com/mrchypark/krlift) : 한국 승강기 현황 데이터
@@ -106,10 +105,4 @@ class: inverse
 class: center, middle, title-slide, inverse
 
 # .pen-p[잘 부탁드립니다.]
-
-
----
-class: center, middle
-
-<img src="https://www.tidytextmining.com/images/tidyflow-ch-5.png" width=80%>
 
