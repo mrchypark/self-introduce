@@ -1,25 +1,3 @@
----
-title: "자기소개"
-author: "박찬엽"
-date: 
-output:
-  xaringan::moon_reader:
-    seal: false
-    css: ["default", "custom.css"]
-    includes:
-      in_header: google_analytics.html
-    nature:
-      highlightStyle: github
-      highlightLines: true
-      countIncrementalSlides: false
-      ratio: '16:9'
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(cache = T, fig.height = 5)
-```
-
-
 class: inverse
 <br>
 .pull-left[
