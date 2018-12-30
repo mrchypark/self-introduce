@@ -6,7 +6,6 @@ output:
   xaringan::moon_reader:
     seal: false
     css: ["default", "custom.css"]
-    lib_dir: libs
     includes:
       in_header: google_analytics.html
     nature:
